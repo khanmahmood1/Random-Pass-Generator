@@ -4,17 +4,6 @@
 
 A simple Python script to generate random passwords with a combination of digits, uppercase letters, lowercase letters, and symbols.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This script provides a secure way to generate random passwords with various character types, helping users create strong and unique passwords for their accounts.
