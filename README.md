@@ -1,5 +1,3 @@
-# Random-Pass-Generator
-
 # Random Password Generator
 
 A simple Python script to generate random passwords with a combination of digits, uppercase letters, lowercase letters, and symbols.
@@ -25,4 +23,4 @@ This script provides a secure way to generate random passwords with various char
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/khanmahmood1/Random-Pass-Generator.git
